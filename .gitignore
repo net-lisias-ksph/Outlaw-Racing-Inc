@@ -1,0 +1,12 @@
+/bin
+**/obj
+/*.user
+.vs
+Archive
+GameData/*/LICENSE
+GameData/*/NOTICE
+GameData/*/README.md
+GameData/*/CHANGE_LOG.md
+GameData/*/*.version
+GameData/*/*.dll
+Source/**/Version.cs
